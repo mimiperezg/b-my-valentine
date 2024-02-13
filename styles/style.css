@@ -1,7 +1,6 @@
 body {
     font-size: 10px;
     font-family: 'Comic Sans MS', sans-serif;
-    /* background-color: #d8a7fe; */
   }
   
   h1 {
@@ -10,7 +9,6 @@ body {
     margin: 0;
     padding: 20px 0;
     color: #f7207a;
-    /* text-shadow: 3px 3px 1px black; */
   }
   
   p, li {
@@ -27,4 +25,8 @@ body {
   
   .text-center {
     text-align: center;
+  }
+
+  .comic {
+    font-family: 'Comic Sans MS', cursive, sans-serif;
   }
